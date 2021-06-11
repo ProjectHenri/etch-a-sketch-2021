@@ -4,7 +4,7 @@
 <ol>
     <li>Improved knowledge of Javascript in general. Especially everything related to <b>event listeners</b> and <b>callback functions</b></li>
     <li>A better understanding of <b>CSS Grid</b> and <b>Flexbox</b></li>
-    <li>How to write cleaner and more optimized code. Stared from scratch multiple times and with each iteration I managed to optimize and clean my code up. It's not perfect but a lot better than my first iteration.</li>
-    <li>Learned about many new CSS </b>properties</b></li>
+    <li>How to write cleaner and more optimized code. Started from scratch multiple times and with each iteration I managed to clean my code up. It's not perfect but a lot better than my first iteration</li>
+    <li>Learned about many new CSS <b>properties</b></li>
 </ol>
-<h2>LIVE DEMO: <a href ="https://projecthenri.github.io/etch-a-sketch/">ETCH-A-SKETCH</a></h2>
+<h3>LIVE DEMO: <a href ="https://projecthenri.github.io/etch-a-sketch/">ETCH-A-SKETCH</a></h3>
