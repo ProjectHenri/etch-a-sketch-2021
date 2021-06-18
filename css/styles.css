@@ -17,7 +17,7 @@ header > h1{
 #buttonContainer{
     display: flex;
     justify-content: center;
-    margin-top:3rem;
+    margin-top:2rem;
 }
 .buttonDefault{
     margin:0.5rem 1.5rem;
@@ -64,7 +64,7 @@ header > h1{
     -webkit-appearance: none;
     width: 15rem;
     height:1rem;
-    margin-top: 3rem;
+    margin-top: 2rem;
     background: rgb(255,255,255);
     border-radius:1rem;
     outline: none;
@@ -97,7 +97,7 @@ header > h1{
         margin:0 auto;
     }
     #grid{
-        height:70vh;
-        width:70vh;
+        height:70vw;
+        width:70vw;
     }
 }
