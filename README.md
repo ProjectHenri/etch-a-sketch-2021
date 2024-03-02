@@ -7,4 +7,4 @@
     <li>How to write cleaner and more optimized code. Started from scratch multiple times and with each iteration I managed to clean my code up. It's not perfect but a lot better than my first iteration</li>
     <li>Learned about many new CSS <b>properties</b></li>
 </ol>
-<h3>LIVE DEMO: <a href ="https://projecthenri.github.io/etch-a-sketch/">ETCH-A-SKETCH</a></h3>
+<h3>LIVE DEMO: <a href ="https://projecthenri.github.io/etch-a-sketch-2021/">ETCH-A-SKETCH</a></h3>
